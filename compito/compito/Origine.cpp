@@ -5,7 +5,8 @@ void main()
 {
 	int conta = 0;
 
-	do {
+	do 
+	{
 		conta++;
 		cout << "Conta: " << conta << endl;
 	} while (conta < 10);
